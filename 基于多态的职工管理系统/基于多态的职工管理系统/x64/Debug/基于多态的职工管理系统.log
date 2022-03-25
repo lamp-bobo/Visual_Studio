@@ -1,0 +1,6 @@
+﻿  workerManager.cpp
+E:\Visual_Studio\C++\基于多态的职工管理系统\基于多态的职工管理系统\基于多态的职工管理系统\workerManager.cpp(390,9): warning C4102: “case1”: 未引用的标签
+E:\Visual_Studio\C++\基于多态的职工管理系统\基于多态的职工管理系统\基于多态的职工管理系统\workerManager.cpp(393,9): warning C4102: “case2”: 未引用的标签
+  基于多态的职工管理系统.cpp
+  正在生成代码...
+  基于多态的职工管理系统.vcxproj -> E:\Visual_Studio\C++\基于多态的职工管理系统\基于多态的职工管理系统\x64\Debug\基于多态的职工管理系统.exe
